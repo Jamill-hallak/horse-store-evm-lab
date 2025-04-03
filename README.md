@@ -18,9 +18,9 @@ The **Horse Store** contract is implemented in multiple forms and versions to he
 - `IHorseStore.sol` – Shared interface.
 
 ### `src/horsestore/v2/`
-- `HorseStore.sol` – Improved or alternative design.
+- `HorseStore.sol` – Improved  design.
 - `HorseStore.huff` – Optimized Huff version.
-- `why.huff` – Experimental or exploratory Huff logic.
+- `why.huff` – Experimental Huff logic.
 - `IHorseStore.sol` – Interface for version 2.
 
 ---
@@ -39,7 +39,7 @@ You’ll need the following installed:
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/yourname/horse-store-evm-lab.git
+git clone https://github.com/Jamill-hallak/horse-store-evm-lab.git
 cd horse-store-evm-lab
 make            # or manually install dependencies
 forge test      # run tests
